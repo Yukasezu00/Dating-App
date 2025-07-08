@@ -1,3 +1,9 @@
+![Winc Academy Badge](https://img.shields.io/badge/academy-Winc-blue)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 # Dating App - JavaScript Basics Project
 
 Dit is een eenvoudige Dating App gebouwd met JavaScript, als oefening voor Winc Academy.  
