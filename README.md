@@ -3,58 +3,51 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-
 # Dating App - JavaScript Basics Project
 
-Dit is een eenvoudige Dating App gebouwd met JavaScript, als oefening voor Winc Academy.  
-De app vraagt gebruiker om profielgegevens, waaronder leeftijd, gender, locatie, en voorkeuren.  
-Vervolgens zoekt de app naar matches in een mock dataset op basis van de ingevoerde voorkeuren.
+This is a simple Dating App built with JavaScript, created as an assignment for Winc Academy.  
+The app asks the user for profile information such as age, gender, location, and preferences.  
+It then searches for matches in a mock dataset based on the entered preferences.
 
 ## Features
 
-- Validatie van gebruikersinput (namen, leeftijd, gender, locatie, etc.)
-- Matching van profielen op basis van leeftijd, gender, locatie, en voorkeuren
-- Case-insensitive invoer (zowel hoofdletters als kleine letters mogelijk)
-- Nette weergave van gevonden matches in de console
+- Validation of user input (names, age, gender, location, etc.)
+- Matching profiles based on age, gender, location, and preferences
+- Case-insensitive input (both uppercase and lowercase accepted)
+- Clear display of found matches in the console
 
-## Hoe te gebruiken
+## How to use
 
-1. Clone de repository of download de bestanden.
-2. Zorg dat je Node.js geïnstalleerd hebt (versie 14 of hoger aanbevolen).
-3. Installeer dependencies via terminal:
+1. Clone the repository or download the files.
+2. Make sure Node.js is installed (version 14 or higher recommended).
+3. Install dependencies in the terminal:
 
    ```bash
    npm install
-
    ```
 
-4. Run de app met:
+4. Run the app with:
 
-- node index.js
+   ```bash
+   node index.js
+   ```
 
-5. Volg de vragen in de terminal en zie de gevonden matches.
+5. Follow the prompts in the terminal and view the found matches.
 
-# Structuur
+## Structure
 
-- index.js - hoofdapplicatie met gebruikersinterface en match-logica
+- **index.js** - main application with user interface and matching logic  
+- **mockData.js** - mock dataset with example profiles
 
-- mockData.js - mock dataset met voorbeeldprofielen
+## Future improvements
 
-# Toekomstige verbeteringen
+- Add more profile information (hobbies, bio, etc.)  
+- Graphical user interface with HTML/CSS  
+- Save and load user profiles  
+- More advanced matching algorithms  
 
-- Uitbreiden met meer profielinformatie (hobby's, bio, etc.)
+## Author
 
-- Grafische gebruikersinterface met HTML/CSS
+**Yunus Yildiz**  
 
-- Opslaan en laden van gebruikersprofielen
-
-- Geavanceerdere matching algoritmes
-
-# Auteur
-
-Yunus Yildiz
-
-Veel plezier met het gebruiken en uitbreiden van deze app!
-
-
----
+Enjoy using and expanding this app! 🚀
