@@ -56,6 +56,5 @@ Yunus Yildiz
 
 Veel plezier met het gebruiken en uitbreiden van deze app!
 
-yaml
 
 ---
